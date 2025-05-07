@@ -22,6 +22,8 @@ Bu oyun, Unity ile geliştirilmiş bir kaçış-toplama oyunudur. Oyuncu mavi to
     Engel tanıma ve yön bulma algoritmalarıyla oyuncuya ulaşmaya çalışır.
 
 📷 Görsel
+    
+![Uploading Ekran görüntüsü 2025-05-07 031357.png…]()
 
 🏆 Kazanma Şartı
 

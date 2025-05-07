@@ -23,7 +23,7 @@ Bu oyun, Unity ile geliştirilmiş bir kaçış-toplama oyunudur. Oyuncu mavi to
 
 📷 Görsel
     
-![Uploading Ekran görüntüsü 2025-05-07 031357.png…]()
+![Ekran görüntüsü 2025-05-07 031357](https://github.com/user-attachments/assets/bbf3d477-868a-45fd-87e6-3b75515eddd1)
 
 🏆 Kazanma Şartı
 
